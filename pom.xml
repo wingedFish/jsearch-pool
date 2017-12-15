@@ -35,6 +35,11 @@
             <version>2.1.1</version>
             <!--<classifier>sources</classifier>-->
         </dependency>
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.34</version>
+        </dependency>
     </dependencies>
 
     <build>
