@@ -1,4 +1,4 @@
-#### 延迟策略(WaitStrategy)
+#### 等待策略(WaitStrategy)
 #### 一、BlockingWaitStrategy
 ~~~
 processorNotifyCondition.await();
